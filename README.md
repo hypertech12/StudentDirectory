@@ -1,4 +1,4 @@
-Student Records Management System
+#Student Records Management System
 This project is a simple student records management system that allows users to manage student records by performing operations such as adding, updating, removing, searching, and sorting student information. The system provides a menu-driven interface where each student's details are stored as a list, and a series of validations ensure that all input is correct.
 
 Features
